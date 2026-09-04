@@ -1,4 +1,4 @@
-# Rige — Plataforma local de configuración efectiva y procedencia
+# Plataforma local de configuración efectiva y procedencia
 
 Repositorio del Proyecto Integrador Final de la carrera de Ingeniería en Sistemas de Información.
 
